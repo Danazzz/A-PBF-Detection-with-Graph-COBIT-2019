@@ -6,3 +6,4 @@ venv/
 .env/
 .env.*
 lib/
+.DS_Store
